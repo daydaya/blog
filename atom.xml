@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bardos.life</id>
+    <title>Liam 大哥</title>
+    <updated>2022-09-28T10:37:55.906Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bardos.life"/>
+    <link rel="self" href="https://bardos.life/atom.xml"/>
+    <subtitle>在平坦的路面上曲折前行~</subtitle>
+    <logo>https://bardos.life/images/avatar.png</logo>
+    <icon>https://bardos.life/favicon.ico</icon>
+    <rights>All rights reserved 2022, Liam 大哥</rights>
+    <entry>
+        <title type="html"><![CDATA[Emby 折腾记录]]></title>
+        <id>https://bardos.life/post/emby-zhe-teng-ji-lu/</id>
+        <link href="https://bardos.life/post/emby-zhe-teng-ji-lu/">
+        </link>
+        <updated>2022-09-28T10:03:30.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="达成的效果">达成的效果</h3>
+<h3 id="不足的地方">不足的地方</h3>
+<h2 id="选择与思考">选择与思考</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="达成的效果">达成的效果</h3>
+<h3 id="不足的地方">不足的地方</h3>
+<h2 id="选择与思考">选择与思考</h2>
+<!-- more -->
+<h4 id="开始折腾">开始折腾</h4>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello word 第一百零八次]]></title>
+        <id>https://bardos.life/post/hello-word-di-yi-bai-ling-ba-ci/</id>
+        <link href="https://bardos.life/post/hello-word-di-yi-bai-ling-ba-ci/">
+        </link>
+        <updated>2022-09-28T09:16:03.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="无数次折腾网站和博客-都仅限于跟着教程搭建完-打一句-hello-word">无数次折腾网站和博客 都仅限于跟着教程搭建完 打一句 hello word</h3>
+<p>或许这一次能不一样吧 😄<br>
+<img src="https://bardos.life/post-images/1664358715955.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
